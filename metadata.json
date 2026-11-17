@@ -1,0 +1,6 @@
+{
+  "name": "SportsPulse RDD — 3D Sports Sentiment Intelligence",
+  "description": "Big Data Sentiment Analysis for Sports Using Apache Spark RDD, deterministic sports NLP, 3D WebGL telemetry, and 12 interactive analytics visualizations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
